@@ -1,6 +1,3 @@
-Here is the updated **`README.md`** text with the repository name (**`web-app-security-lab`**) and project description clearly placed right at the top:
-
-```markdown
 # Repository Name: `web-app-security-lab`
 
 ## Repository Description
@@ -176,6 +173,5 @@ Click the search icon and enter `<iframe src="javascript:alert(`xss`)">`.
 * **Certifications:** CompTIA Security+ | ISC2 Certified in Cybersecurity (CC)
 * **GitHub:** [godfredachie-web](https://github.com/godfredachie-web)
 * **LinkedIn:** [godfred-acheampong05](https://linkedin.com/in/godfred-acheampong05)
-```
 
 ```
